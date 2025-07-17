@@ -2,6 +2,10 @@
 
 🧹 A tiny JavaScript utility to remove `null`, `undefined`, and `""` (empty string) values from an object.
 
+![NPM Version](https://img.shields.io/npm/v/clean-object-keys.svg)
+![Downloads](https://img.shields.io/npm/dt/clean-object-keys.svg)
+![License](https://img.shields.io/npm/l/clean-object-keys.svg)
+
 ## 📦 Installation
 
 ```bash
