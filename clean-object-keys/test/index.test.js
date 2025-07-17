@@ -6,6 +6,7 @@ const dirtyObject = {
     address: '',
     phone: undefined,
     city: 'Delhi',
+
 };
 
 const cleaned = cleanObject(dirtyObject);

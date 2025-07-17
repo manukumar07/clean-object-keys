@@ -1,12 +1,12 @@
 {
   "name": "clean-object-keys",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Remove null, undefined, and empty string keys from objects",
   "main": "src/index.js",
   "scripts": {
     "test": "node test/index.test.js"
   },
- "keywords": [
+  "keywords": [
     "clean",
     "object",
     "keys",
@@ -16,7 +16,7 @@
   ],
   "author": "Manu Kumar Pal",
   "license": "MIT",
-   "repository": {
+  "repository": {
     "type": "git",
     "url": "https://github.com/manukumar07/clean-object-keys"
   }
