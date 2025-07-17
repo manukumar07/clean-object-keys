@@ -1,6 +1,6 @@
 {
   "name": "clean-object-keys",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Remove null, undefined, and empty string keys from objects",
   "main": "src/index.js",
   "scripts": {
