@@ -1,18 +1,22 @@
 {
   "name": "clean-object-keys",
-  "version": "1.0.3",
-  "description": "Remove null, undefined, and empty string keys from objects",
+  "version": "1.0.4",
+  "description": "A tiny JavaScript utility to remove null, undefined, and empty string values from objects. Lightweight and supports nested objects.",
   "main": "src/index.js",
   "scripts": {
     "test": "node test/index.test.js"
   },
   "keywords": [
-    "clean",
-    "object",
-    "keys",
-    "null",
-    "undefined",
-    "utility"
+   "clean",
+  "object",
+  "remove-null",
+  "sanitize-object",
+  "clean-object-keys",
+  "remove-empty-values",
+  "data-cleaner",
+  "payload-cleaner",
+  "sanitize-json",
+  "javascript-object-utils"
   ],
   "author": "Manu Kumar Pal",
   "license": "MIT",
