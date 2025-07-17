@@ -11,6 +11,11 @@ npm install clean-object-keys
 ### ✅ 3. Why Use This?
 
 ```markdown
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> a6b1b2860295e88a146388298bf8d8c2cbe58bd5
 ✅ Clean API request payloads  
 ✅ Sanitize form data or configs  
 ✅ Remove empty/invalid values easily  
@@ -19,7 +24,10 @@ npm install clean-object-keys
 ```
 
 ### ➤ Basic Example
+<<<<<<< HEAD
 
+=======
+>>>>>>> a6b1b2860295e88a146388298bf8d8c2cbe58bd5
 ```
 
 const { cleanObject } = require("clean-object-keys");
@@ -40,7 +48,10 @@ console.log(cleaned);
 ```
 
 ## 📁 Folder Structure
+<<<<<<< HEAD
 
+=======
+>>>>>>> a6b1b2860295e88a146388298bf8d8c2cbe58bd5
 ```
 clean-object-keys/
 ├── src/
@@ -53,9 +64,15 @@ clean-object-keys/
 ```
 
 ## 📄 License
+<<<<<<< HEAD
 
 ```
 MIT © 2025 Manu Kumar Pal
 ```
 
+=======
+```
+MIT © 2025 Manu Kumar Pal
+```
+>>>>>>> a6b1b2860295e88a146388298bf8d8c2cbe58bd5
 > ⚡ Made by Manu Kumar Pal — feel free to contribute, star ⭐, or share!
